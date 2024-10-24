@@ -1,3 +1,4 @@
 star7th/showdoc
 nextcloud
 mysql
+nginx
