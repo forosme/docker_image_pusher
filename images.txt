@@ -2,3 +2,4 @@ star7th/showdoc
 nextcloud
 mysql
 nginx
+gitlab/gitlab-ce
