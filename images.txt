@@ -4,4 +4,3 @@ mysql
 nginx
 gitlab/gitlab-ce
 jgraph/drawio
-drawio/drawio
