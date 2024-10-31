@@ -4,3 +4,4 @@ mysql
 nginx
 gitlab/gitlab-ce
 jgraph/drawio
+alpine
