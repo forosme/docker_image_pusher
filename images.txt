@@ -5,3 +5,5 @@ nginx
 gitlab/gitlab-ce
 jgraph/drawio
 alpine
+kovaszab/photopea
+eorendel/photopea
